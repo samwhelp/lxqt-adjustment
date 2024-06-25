@@ -22,7 +22,7 @@
 
 | Adjustment |
 | -------- |
-| [Lxqt](https://github.com/samwhelp/lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+| [Lxqt Config](https://github.com/samwhelp/lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
 
 
 
