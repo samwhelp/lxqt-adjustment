@@ -12,20 +12,8 @@
 
 ## Subject
 
-* [ISO](#iso)
 * [Adjustment](#adjustment)
 * [Link](#link)
-
-
-
-
-## ISO
-
-### Build ISO
-
-| Build ISO |
-| --------- |
-| [lika-live-build-respin-lxqt](https://github.com/samwhelp/lika-live-build-respin-lxqt) |
 
 
 
